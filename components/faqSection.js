@@ -14,7 +14,7 @@ export default function faqSection() {
               role="heading"
               class="sm:text-3xl md:text-4xl text-3xl font-semibold md:font-semibold lg:font-bold tracking-wide lg:tracking-wider title-font text-primary"
             >
-              Frequently asked questions
+              FAQ
             </h1>
           </div>
           <div class="lg:w-1/2 md:w-8/12 sm:w-9/12 w-full">
